@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working as a Scientist at Resolve BioSciences. My tasks are data analysis and report generation (mainly R and Quarto). I am eager to develop my DataViz skills.
+- 🌱 I’m currently learning `python`
+
 <!--
 **emaleckova/emaleckova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

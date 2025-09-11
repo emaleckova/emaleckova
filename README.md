@@ -1,21 +1,40 @@
-## Ahoj / Hello / Hallo / Hola 👋
+<h2 align="center">Ahoj / Hello / Hallo / Hola 👋</h2>
 
-Proficient in ![R](https://img.shields.io/badge/-R-2C3038?&logo=R&logoColor=%23A790DBFF) and a fan of ![Quarto](https://img.shields.io/badge/-Quarto-2C3038?&logo=quarto&logoColor=%23A790DBFF), ![ggplot](https://img.shields.io/badge/-ggplot-2C3038?&logo=ggplot&logoColor=%23A790DBFF) and ![Positron](https://img.shields.io/badge/-Positron-2C3038?&logo=positron&logoColor=%23A790DBFF)
+<h4 align="center">I am Eva, a biologist, now focusing on data analysis and reporting, and come from the Czech Republic</h4>
+<br>
 
-Familiar with ![Git](https://img.shields.io/badge/-Git-2C3038?&logo=git&logoColor=%23A790DBFF), ![conda](https://img.shields.io/badge/-anaconda-2C3038?&logo=anaconda&logoColor=%23A790DBFF), ![Snakemake](https://img.shields.io/badge/-snakemake-2C3038?&logo=snakemake&logoColor=%23A790DBFF), ![Docker](https://img.shields.io/badge/-docker-2C3038?&logo=docker&logoColor=%23A790DBFF)
+Proficient in ![R](https://img.shields.io/badge/-R-2C3038?&logo=R&logoColor=%23A790DBFF) and a big fan of ![Quarto](https://img.shields.io/badge/-Quarto-2C3038?&logo=quarto&logoColor=%23A790DBFF), ![ggplot](https://img.shields.io/badge/-ggplot-2C3038?&logo=ggplot&logoColor=%23A790DBFF), and ![Positron](https://img.shields.io/badge/-Positron-2C3038?&logo=positron&logoColor=%23A790DBFF)
+
+Familiar with ![Git](https://img.shields.io/badge/-Git-2C3038?&logo=git&logoColor=%23A790DBFF), ![conda](https://img.shields.io/badge/-anaconda-2C3038?&logo=anaconda&logoColor=%23A790DBFF), ![Snakemake](https://img.shields.io/badge/-snakemake-2C3038?&logo=snakemake&logoColor=%23A790DBFF), and ![Docker](https://img.shields.io/badge/-docker-2C3038?&logo=docker&logoColor=%23A790DBFF)
+
+### Some facts
 
 - 🔭 I’m currently working as a Scientist at Resolve BioSciences. My tasks are data analysis and report generation (mainly R and Quarto). I am eager to develop my DataViz skills.
 - 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-2C3038?&logo=python&logoColor=%23A790DBFF)
 
+<br>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaleckova&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,lua&theme=transparent&langs_count=10" />
 
 ### Selection of projects
 
-https://emaleckova.quarto.pub/baron-trencks-unraveled-secrets/ (GitHub: https://github.com/emaleckova/trenck-closeread)  
-https://emaleckova.github.io/paris-2024-medals/ (GitHub: https://github.com/emaleckova/paris-2024-medals)  
-https://github.com/emaleckova/tidytuesday  
-https://github.com/emaleckova/30-day-challenges  
+| Project                                                                               | About   | Code                                                                                    |
+|-------------------------------------------------------------------------------------------|-----|-----------------------------------------------------------------------------------------|
+| #TidyTuesday                                                                          |   | [![Link](https://skillicons.dev/icons?i=github)](https://github.com/emaleckova/tidytuesday)   |
+| #30DayChartChallenge                                                                  |   | [![Link](https://skillicons.dev/icons?i=github)](https://github.com/emaleckova/30-day-challenges)   |
+| [Paris 2024 Olympics dashboard](https://emaleckova.github.io/paris-2024-medals/)      | A Quarto dashboards about the Games  | [![Link](https://skillicons.dev/icons?i=github)](https://github.com/emaleckova/paris-2024-medals) |
+| [Baron Trenck's Unraveled Secrets](https://emaleckova.quarto.pub/baron-trencks-unraveled-secrets/)  | Posit's Closeread Prize (Scrollytelling with Quarto)  |  [![Link](https://skillicons.dev/icons?i=github)](https://github.com/emaleckova/trenck-closeread) |
 
+
+
+----------------------------------------------------------------------------------
+
+Created with skillicons.dev
+
+
+<!--
+(GitHub: https://github.com/emaleckova/trenck-closeread) 
+ (GitHub: https://github.com/emaleckova/paris-2024-medals)  
+-->
 
 <!--
 **emaleckova/emaleckova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

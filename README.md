@@ -1,31 +1,33 @@
 <h2 align="center">Ahoj / Hello / Hallo / Hola 👋</h2>
 
-<h4 align="center">I am Eva, a biologist, now focusing on data analysis and reporting, and come from the Czech Republic</h4>
+<h4 align="center">Once a wet lab biologist, now busy with data analysis, reporting, testing and co-development of internal tools at Resolve Biosciences</h4>
 <br>
 
-Proficient in ![R](https://img.shields.io/badge/-R-2C3038?&logo=R&logoColor=%23A790DBFF) and a big fan of ![Quarto](https://img.shields.io/badge/-Quarto-2C3038?&logo=quarto&logoColor=%23A790DBFF), ![ggplot](https://img.shields.io/badge/-ggplot-2C3038?&logo=ggplot&logoColor=%23A790DBFF), and ![Positron](https://img.shields.io/badge/-Positron-2C3038?&logo=positron&logoColor=%23A790DBFF)
-
-Familiar with ![Git](https://img.shields.io/badge/-Git-2C3038?&logo=git&logoColor=%23A790DBFF), ![conda](https://img.shields.io/badge/-anaconda-2C3038?&logo=anaconda&logoColor=%23A790DBFF), ![Snakemake](https://img.shields.io/badge/-snakemake-2C3038?&logo=snakemake&logoColor=%23A790DBFF), and ![Docker](https://img.shields.io/badge/-docker-2C3038?&logo=docker&logoColor=%23A790DBFF)
+### Skills
+- proficient in ![R](https://img.shields.io/badge/-R-2C3038?&logo=R&logoColor=%23A790DBFF), which I love to combine with ![Quarto](https://img.shields.io/badge/-Quarto-2C3038?&logo=quarto&logoColor=%23A790DBFF) and ![Positron](https://img.shields.io/badge/-Positron-2C3038?&logo=positron&logoColor=%23A790DBFF)
+- ![ggplot](https://img.shields.io/badge/-ggplot-2C3038?&logo=ggplot&logoColor=%23A790DBFF) and ![ggiraph](https://img.shields.io/badge/-ggiraph-2C3038?&logo=ggiraph&logoColor=%23A790DBFF) for data visualization
+- confident with ![Git](https://img.shields.io/badge/-Git-2C3038?&logo=git&logoColor=%23A790DBFF)
+- experience with ![conda](https://img.shields.io/badge/-anaconda-2C3038?&logo=anaconda&logoColor=%23A790DBFF), ![Snakemake](https://img.shields.io/badge/-snakemake-2C3038?&logo=snakemake&logoColor=%23A790DBFF), and ![Docker](https://img.shields.io/badge/-docker-2C3038?&logo=docker&logoColor=%23A790DBFF)
 
 ### Some facts
+- 🧬 Degrees in Molecular and Cell Biology, and Biology
+- 🌱 Once researching Crassulacean Acid Metabolism (CAM) photosynthesis
+- 🎯 Goals: improve my DataViz skills, learn ![Python](https://img.shields.io/badge/-Python-2C3038?&logo=python&logoColor=%23A790DBFF) and ![React](https://img.shields.io/badge/-react-2C3038?&logo=react&logoColor=%23A790DBFF)
+- 👟 Passionate runner
+- 🥖 And sourdough bread baker
 
-- 🔭 I’m currently working as a Scientist at Resolve BioSciences. My tasks are data analysis and report generation (mainly R and Quarto). I am eager to develop my DataViz skills.
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-2C3038?&logo=python&logoColor=%23A790DBFF)
+### Selected projects
 
-### Selection of projects
-
-| Project                                                                               | About   | Code                                                                                    |
-|-------------------------------------------------------------------------------------------|-----|-----------------------------------------------------------------------------------------|
-| #TidyTuesday                                                                          |   | [![Link](https://skillicons.dev/icons?i=github)](https://github.com/emaleckova/tidytuesday)   |
-| #30DayChartChallenge                                                                  |   | [![Link](https://skillicons.dev/icons?i=github)](https://github.com/emaleckova/30-day-challenges)   |
-| [Paris 2024 Olympics dashboard](https://emaleckova.github.io/paris-2024-medals/)      | A Quarto dashboards about the Games  | [![Link](https://skillicons.dev/icons?i=github)](https://github.com/emaleckova/paris-2024-medals) |
-| [Baron Trenck's Unraveled Secrets](https://emaleckova.quarto.pub/baron-trencks-unraveled-secrets/)  | Posit's Closeread Prize (Scrollytelling with Quarto)  |  [![Link](https://skillicons.dev/icons?i=github)](https://github.com/emaleckova/trenck-closeread) |
-
-
+|  Repo | Decription | Links | Tools |
+|  --- | --- | --- | --- |
+| **#30DayChartChallenge** | A collection of my contributions for the annual #30DayChartChallenge |  [![github](./resources/icons/github-svgrepo-com.svg)](https://github.com/emaleckova/30-day-challenges)| ![R](https://img.shields.io/badge/-R-2C3038?) ![DataViz](https://img.shields.io/badge/-DataViz-2C3038?) |
+| **Baron Trenck's Unraveled Secrets** | My contribution for the Posit's Closeread Prize (Scrollytelling with Quarto) |  [![github](./resources/icons/github-svgrepo-com.svg)](https://github.com/emaleckova/trenck-closeread) [![website](./resources/icons/web-svgrepo-com.svg)](https://emaleckova.quarto.pub/baron-trencks-unraveled-secrets/) | ![Quarto](https://img.shields.io/badge/-quarto-2C3038?) ![R](https://img.shields.io/badge/-R-2C3038?) |
+| **Paris 2024 Olympics dashboard** | A fun project about the Games to practice dashboarding|  [![github](./resources/icons/github-svgrepo-com.svg)](https://github.com/emaleckova/paris-2024-medals)  [![website](./resources/icons/web-svgrepo-com.svg)](https://emaleckova.github.io/paris-2024-medals/)    | ![Quarto](https://img.shields.io/badge/-quarto-2C3038?) ![R](https://img.shields.io/badge/-R-2C3038?) ![R](https://img.shields.io/badge/-R-2C3038?) |
+| **TidyTuesday** | A collection of my contributions for the TidyTuesday initiative |  [![github](./resources/icons/github-svgrepo-com.svg)](https://github.com/emaleckova/tidytuesday) | ![R](https://img.shields.io/badge/-R-2C3038?) ![Data preprocessing](https://img.shields.io/badge/-Data_preprocessing-2C3038?) ![DataViz](https://img.shields.io/badge/-DataViz-2C3038?)|
 
 ----------------------------------------------------------------------------------
 
-Created with skillicons.dev
+Created with [img.shields.io](https://img.shields.io/), emojis from [https://emojipedia.org](https://emojipedia.org), and customizable CVG icons from [https://www.svgrepo.com](https://www.svgrepo.com)
 
 
 <!--

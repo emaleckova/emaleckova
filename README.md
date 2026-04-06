@@ -16,6 +16,10 @@
 - 👟 Passionate runner
 - 🥖 And sourdough bread baker
 
+### Where to find me  
+  [<img src="./resources/icons/website-search-engine-svgrepo-com.svg" width="24">](https://www.linkedin.com/in/evamaleckova/?locale=en-US)
+  [<img src="./resources/icons/linkedin-svgrepo-com.svg" width="24">](https://emaleckova.github.io/)
+  
 ### Selected projects
 
 |  Repo | Decription | Links | Tools |

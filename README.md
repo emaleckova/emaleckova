@@ -12,9 +12,6 @@ Familiar with ![Git](https://img.shields.io/badge/-Git-2C3038?&logo=git&logoColo
 - 🔭 I’m currently working as a Scientist at Resolve BioSciences. My tasks are data analysis and report generation (mainly R and Quarto). I am eager to develop my DataViz skills.
 - 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-2C3038?&logo=python&logoColor=%23A790DBFF)
 
-<br>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaleckova&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,lua&theme=transparent&langs_count=10" />
-
 ### Selection of projects
 
 | Project                                                                               | About   | Code                                                                                    |

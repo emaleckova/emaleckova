@@ -1,4 +1,4 @@
-<h2 align="center">Ahoj / Hello / Hallo / Hola 👋</h2>
+<h2 align="center">Ahoj / Hello / Hallo👋</h2>
 
 <h4 align="center">Once a wet lab biologist, now busy with data analysis, reporting, testing and co-development of internal tools at Resolve Biosciences</h4>
 <br>

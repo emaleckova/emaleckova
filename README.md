@@ -17,8 +17,8 @@
 - 🥖 And sourdough bread baker
 
 ### Where to find me  
-  [<img src="./resources/icons/website-search-engine-svgrepo-com.svg" width="24">](https://www.linkedin.com/in/evamaleckova/?locale=en-US)  personal website  
-  [<img src="./resources/icons/linkedin-svgrepo-com.svg" width="24">](https://emaleckova.github.io/)  linkedIn  
+  [<img src="./resources/icons/website-search-engine-svgrepo-com.svg" width="24">](https://emaleckova.github.io/)  personal website  
+  [<img src="./resources/icons/linkedin-svgrepo-com.svg" width="24">](https://www.linkedin.com/in/evamaleckova/?locale=en-US)  linkedIn  
 
 <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emaleckova&theme=transparent" />
 
